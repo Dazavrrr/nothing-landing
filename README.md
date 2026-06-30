@@ -2,13 +2,13 @@
 
 A responsive landing page inspired by the Nothing technology brand. The project features a modern UI, semantic HTML, smooth navigation, and a fully responsive layout.
 
-## 🔗 Live Preview
-
-[DEMO LINK](https://Dazavrrr.github.io/nothing-landing/)
-
 ## 📸 Preview
 
 ![Nothing Landing Preview](./src/images/preview.png)
+
+## 🔗 Live Preview
+
+[DEMO LINK](https://Dazavrrr.github.io/nothing-landing/)
 
 ## 🎨 Design
 
